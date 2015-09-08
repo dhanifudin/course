@@ -9,5 +9,5 @@
   <a href="http://facebook.com/dhanifudin">http://facebook.com/dhanifudin</a>
 </p>
 <p class="fragment">
-  &#9742; 82230743545
+  &#9742; 082230743546
 </p>
