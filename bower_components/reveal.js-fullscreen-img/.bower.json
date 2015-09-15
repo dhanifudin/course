@@ -1,0 +1,14 @@
+{
+  "name": "reveal.js-fullscreen-img",
+  "homepage": "https://github.com/regisb/reveal.js-fullscreen-img",
+  "_release": "bf8cf1b7b1",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bf8cf1b7b19e8a7e752abb96bb339edc6295e805"
+  },
+  "_source": "git://github.com/regisb/reveal.js-fullscreen-img.git",
+  "_target": "*",
+  "_originalSource": "regisb/reveal.js-fullscreen-img",
+  "_direct": true
+}
